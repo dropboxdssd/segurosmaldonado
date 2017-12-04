@@ -1,0 +1,6 @@
+{
+  "name": "Start on Heroku: PHP",
+  "description": "Empresa de seguros Maldonado",
+  "repository": "https://github.com/dropboxdssd/seguro3",
+  "addons": []
+}
