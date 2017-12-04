@@ -3,7 +3,7 @@
     
 session_start();
 
-require_once 'vendor/autoload.php';
+require_once '../vendor/autoload.php';
 use Kunnu\Dropbox\DropboxFile;
 use Kunnu\Dropbox\Dropbox;
 use Kunnu\Dropbox\DropboxApp;
